@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer Personele zaken Bevolkingszorg"
+    id="4a0cfcbd-e618-44af-a0f7-eb437e792511"
+    documentation="De personele bezetting van Team Bevolkingszorg vergt periodieke en incidentele beheerwerkzaamheden om het team in stand te houden.">
+  <properties
+      key="Bron"
+      value="Producten - en dienstencatalogus v 2.0 DEF.pdf"/>
+</archimate:BusinessProcess>

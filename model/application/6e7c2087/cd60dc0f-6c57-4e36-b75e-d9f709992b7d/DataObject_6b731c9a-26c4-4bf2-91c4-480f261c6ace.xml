@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alarmering"
+    id="6b731c9a-26c4-4bf2-91c4-480f261c6ace"
+    documentation="betreft de set aan basiskenmerken voor de Alarmering:&#xD;&#xA;- medewerker/relatie&#xD;&#xA;- belschema&#xD;&#xA;- telefoonnummer&#xD;&#xA;- ...."/>

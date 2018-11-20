@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meldingen en aanvragen"
+    id="ca93274e-2c12-4b5a-b5f7-5f17e7619aa4"
+    documentation="&lt;medewerker>&#xD;&#xA;- aanvraag id&#xD;&#xA;- dienst/middel&#xD;&#xA;- datum aanvraag&#xD;&#xA;- status&#xD;&#xA;- uitkomst&#xD;&#xA;- ..."/>

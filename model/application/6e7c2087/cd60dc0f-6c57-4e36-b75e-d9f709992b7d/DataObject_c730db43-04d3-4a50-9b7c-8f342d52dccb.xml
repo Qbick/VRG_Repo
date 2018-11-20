@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Middelen"
+    id="c730db43-04d3-4a50-9b7c-8f342d52dccb"
+    documentation="- product-id&#xD;&#xA;- omschrijving&#xD;&#xA;- toepassing&#xD;&#xA;- verbruik locatie x&#xD;&#xA;- verbruik locatie y&#xD;&#xA;- voorraad locatie x&#xD;&#xA;- voorraad locatie y &#xD;&#xA;- inventarisatie&#xD;&#xA;- ...&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opleiding"
+    id="8e4be808-9ef9-48ba-941f-ee07f960dbd2"
+    documentation="- opleiding id&#xD;&#xA;- opleiding&#xD;&#xA;- kwalificatie&#xD;&#xA;- locatie&#xD;&#xA;- datum/tijd&#xD;&#xA;- deelnemers&#xD;&#xA;&#x9;&lt;medewerkers brandweer>"/>

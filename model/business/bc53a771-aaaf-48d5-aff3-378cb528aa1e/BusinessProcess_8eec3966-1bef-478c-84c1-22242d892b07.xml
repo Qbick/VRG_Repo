@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Functioneringsgesprek"
+    id="8eec3966-1bef-478c-84c1-22242d892b07"
+    documentation="Het afdelingshoofd GHOR Groningen is er verantwoordelijk voor dat jaarlijks met elke medewerker een functioneringsgesprek wordt gevoerd. Een vast onderdeel van het functioneringsgesprek is de mate van tevredenheid en het welbevinden van de medewerker. Het gesprek wordt verder gevoerd aan de hand van ingebrachte punten. &#xD;&#xA;Er kunnen afspraken worden gemaakt voor de komende periode. Het verslag wordt opgenomen in het personeelsdossier op de afdeling HRM van de GGD en een kopie wordt verstrekt aan de medewerker. &#xD;&#xA;Beoordelingsgesprekken vinden plaats volgens het personeelsbeleid van de GGD Groningen.&#xD;&#xA;">
+  <properties
+      key="Bron"
+      value="160801 Kwaliteitshandboek 2016 versie 1.1"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deskundigheid"
+    id="7f0f7e0d-b08e-4ffb-b1c7-9935714f88aa"
+    documentation="(scholing, ontwikkeling)">
+  <properties
+      key="Bron"
+      value="Producten - en dienstencatalogus v 2.0 DEF"/>
+</archimate:BusinessProcess>

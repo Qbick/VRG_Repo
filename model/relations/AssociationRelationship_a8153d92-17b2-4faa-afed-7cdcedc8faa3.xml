@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="coax"
+    id="a8153d92-17b2-4faa-afed-7cdcedc8faa3">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_216132f3-9e02-4ed9-9be5-062aa5ed4bcf.xml#216132f3-9e02-4ed9-9be5-062aa5ed4bcf"/>
+  <target
+      xsi:type="archimate:Path"
+      href="Path_6ad6daf4-4f98-4ad9-8378-9567794a989a.xml#6ad6daf4-4f98-4ad9-8378-9567794a989a"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nodebeheer"
+    id="14191b46-8c90-41c1-bcbf-aa264d0831e1"
+    documentation="Het beheer van individuele machines (werkstations, servers), en het bewaken (monitoren) van de performance, beschikbaarheid en integriteit van deze machines."/>

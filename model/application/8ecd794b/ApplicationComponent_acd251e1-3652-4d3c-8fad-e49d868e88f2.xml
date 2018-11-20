@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AFAS Profit Office Connector"
+    id="acd251e1-3652-4d3c-8fad-e49d868e88f2"
+    documentation="invoegen van documenten (zoals diploma's, brieven)  in AFAS (personeelsbestanden), en exporteren van rapporten en analyses&#xD;&#xA;"/>

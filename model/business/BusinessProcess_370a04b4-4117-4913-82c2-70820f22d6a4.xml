@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toetsen en Testen"
+    id="370a04b4-4117-4913-82c2-70820f22d6a4"
+    documentation=">&#x9;Voorbereiden van het toetsen en testen.&#xD;&#xA;>&#x9;Uitvoeren van de acceptatietest.&#xD;&#xA;>&#x9;Uitvoeren van de test op volledigheid.&#xD;&#xA;>&#x9;Borgen van het implementatieplan.&#xD;&#xA;>&#x9;Bepalen van de impact van de testresultaten.&#xD;&#xA;"/>

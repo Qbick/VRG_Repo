@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Documentenbeheer "
+    id="a3ad594e-4953-4201-bdba-0d089c024405"
+    documentation="Beheersen van formulieren en overige documenten voor kwaliteitsregistratie, conform wettelijke eisen of eisen van de organisatie.">
+  <properties
+      key="Bron"
+      value="160801 Kwaliteitshandboek 2016 versie 1.1"/>
+</archimate:BusinessProcess>

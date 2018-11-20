@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementatie planvorming"
+    id="34eaa3cd-1f79-4459-ad16-7d03b2ec3f71"
+    documentation="(borgen van de plannen)">
+  <properties
+      key="Bron"
+      value="Producten - en dienstencatalogus v 2.0 DEF"/>
+</archimate:BusinessProcess>

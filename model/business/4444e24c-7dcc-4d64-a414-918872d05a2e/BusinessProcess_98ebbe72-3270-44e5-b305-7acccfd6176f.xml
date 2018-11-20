@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen van plannen en draaiboeken"
+    id="98ebbe72-3270-44e5-b305-7acccfd6176f"
+    documentation="(bijdragen beleidsplan, crisisplan, rampbestrijdingsplan, continuïteitsplan)">
+  <properties
+      key="Bron"
+      value="Producten - en dienstencatalogus v 2.0 DEF"/>
+</archimate:BusinessProcess>

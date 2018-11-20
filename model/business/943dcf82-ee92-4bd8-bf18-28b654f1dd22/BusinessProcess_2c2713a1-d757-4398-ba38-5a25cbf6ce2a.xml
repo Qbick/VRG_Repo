@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begroten"
+    id="2c2713a1-d757-4398-ba38-5a25cbf6ce2a">
+  <properties
+      key="Bron"
+      value="Engage"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTTP server"
+    id="49522811-34de-40e3-92a5-869d5223141c"
+    documentation="Omgeving die statische content ontsluit naar eindgebruiker."/>

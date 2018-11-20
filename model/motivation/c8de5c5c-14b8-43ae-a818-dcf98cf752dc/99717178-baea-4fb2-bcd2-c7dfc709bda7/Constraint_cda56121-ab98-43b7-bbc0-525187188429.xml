@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anti-phishing"
+    id="cda56121-ab98-43b7-bbc0-525187188429"
+    documentation="DMARC&#x9;Domain-based Message Authentication, Reporting, and Conformance&#x9;RFC 7489&#x9;IETF&#x9;https://datatracker.ietf.org/doc/rfc7489/&#xD;&#xA;"/>

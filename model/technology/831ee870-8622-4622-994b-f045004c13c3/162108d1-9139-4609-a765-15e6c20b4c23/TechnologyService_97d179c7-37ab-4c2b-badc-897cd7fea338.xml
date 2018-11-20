@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netwerk load balancing"
+    id="97d179c7-37ab-4c2b-badc-897cd7fea338"
+    documentation="Het verspreiden van inkomende berichten over meerdere IT systemen."/>

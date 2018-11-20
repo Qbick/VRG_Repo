@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WoK "
+    id="9a7ea196-8e74-4cfc-9110-5a8a48ee4c4b"
+    documentation="Weas over Koper&#xD;&#xA;Weas (Wholesale ethernet acces services)">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_557466ec-c9c1-4372-b2d0-d5c8c9f37bbb.xml#557466ec-c9c1-4372-b2d0-d5c8c9f37bbb"/>
+  <target
+      xsi:type="archimate:Path"
+      href="Path_10f9bfd3-8a93-48da-a1ac-b1921c297ab1.xml#10f9bfd3-8a93-48da-a1ac-b1921c297ab1"/>
+</archimate:AssociationRelationship>

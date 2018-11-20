@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proxy"
+    id="953b30ab-593a-4280-acbf-7d17cd576b70"
+    documentation="Het bieden van een extra tussenstation voor (inkomende en uitgaande) berichten, waardoor een extra beveiligingslaag wordt gecreëerd."/>

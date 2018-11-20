@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kope"
+    id="c1a7ec63-b7b3-46e5-add4-39087a2ad34e">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_95ad528c-c1c3-416d-932e-ad4bae945ab9.xml#95ad528c-c1c3-416d-932e-ad4bae945ab9"/>
+  <target
+      xsi:type="archimate:Path"
+      href="Path_7f3a6e6e-1dfb-4c66-814c-41139eb57999.xml#7f3a6e6e-1dfb-4c66-814c-41139eb57999"/>
+</archimate:AssociationRelationship>

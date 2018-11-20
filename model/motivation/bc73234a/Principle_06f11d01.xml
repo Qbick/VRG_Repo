@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B.1. Zorg voor systemen die in alle omstandigheden bruikbaar zijn"
+    id="06f11d01"
+    documentation="Rationale - Veiligheidspartners maken onder normale en bijzondere omstandigheden (crises en rampen) gebruik van&#xD;&#xA;dezelfde applicaties om te bewerkstelligen dat de veiligheidspartners voldoende ervaring hebben met de&#xD;&#xA;applicaties.&#xD;&#xA;Implicaties - Gebruik van de daadwerkelijke operationele crisisapplicaties wordt ingebed in de standaard OTO-praktijk&#xD;&#xA;(opleiding, training, oefening). Administratieve applicaties voor het beheer van vergunningen, rampenplannen&#xD;&#xA;e.d. worden gebruikt tijdens koude en warme fasen, voor zover van toepassing. Voorkómen en voorbereiden&#xD;&#xA;zijn dan ook onderdeel van de primaire procesgang. Applicaties en bijbehorende beheerorganisaties zijn&#xD;&#xA;hiervoor 24x7 beschikbaar.&#xD;&#xA;Handreiking - Geen&#xD;&#xA;">
+  <properties
+      key="Bron"
+      value="VeRA 2.0"/>
+</archimate:Principle>

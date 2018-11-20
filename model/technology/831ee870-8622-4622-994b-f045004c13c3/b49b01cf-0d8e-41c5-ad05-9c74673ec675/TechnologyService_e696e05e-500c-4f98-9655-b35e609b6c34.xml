@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Encryptie"
+    id="e696e05e-500c-4f98-9655-b35e609b6c34"
+    documentation="Het versleutelen van gegevens zodat deze niet inzichtelijk zijn voor onbevoegden."/>

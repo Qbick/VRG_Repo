@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfshulpverlening"
+    id="3c0e2c56-392e-46cc-88d5-290c6475d30b"
+    documentation="Voor de bedrijfshulpverlening (BHV) doet GHOR Groningen een beroep op de GGD, waar de GHOR is gehuisvest. ">
+  <properties
+      key="Bron"
+      value="160801 Kwaliteitshandboek 2016 versie 1.1"/>
+</archimate:BusinessProcess>

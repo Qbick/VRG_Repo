@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ongewenste omgangsvormen"
+    id="a967e6b9-5a54-41b0-970b-f5960a08b350"
+    documentation="De gemeente Groningen kent een officiële klachtenregeling voor ongewenste omgangsvormen. Deze is na te lezen op Intranet. ">
+  <properties
+      key="Bron"
+      value="160801 Kwaliteitshandboek 2016 versie 1.1"/>
+</archimate:BusinessProcess>

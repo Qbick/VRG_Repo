@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zone beveiliging"
+    id="a1c93c6a-dc05-46c1-835e-79d470daa26b"
+    documentation="Het filteren van ongewenste berichten zodat deze niet tot de volgende netwerkzone worden toegelaten."/>

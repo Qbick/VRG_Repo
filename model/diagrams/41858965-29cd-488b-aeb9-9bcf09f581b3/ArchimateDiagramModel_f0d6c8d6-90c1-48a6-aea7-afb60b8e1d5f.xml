@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basisplaat Technologie landschap"
+    id="f0d6c8d6-90c1-48a6-aea7-afb60b8e1d5f">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c77a02f4-8176-4970-b296-bb3f3af76164"
+      textAlignment="1"
+      content="in deze plaat komen de componenten in samenhang , dus netwerk, locaties en systemen, waarbij voor niet specifieke zaken de services zullen worden gebruikt.">
+    <bounds
+        x="477"
+        y="133"
+        width="220"
+        height="120"/>
+  </children>
+</archimate:ArchimateDiagramModel>

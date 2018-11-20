@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internetnummers"
+    id="c024a096-b6f7-4823-98ca-4daef6f9cf02"
+    documentation="IPv6 en IPv4&#x9;Internet Protocol Versie 4 en Internet Protocol Versie 6&#x9;4 en 6&#x9;IETF&#x9;http://datatracker.ietf.org/doc/rfc791/, http://datatracker.ietf.org/doc/rfc2460/&#xD;&#xA;"/>

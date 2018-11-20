@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatie proxy"
+    id="00bbe40c-66a5-4e72-a2cf-844df15001c1"
+    documentation="Een systeem dat in staat is gebruikers te authenticeren en grofmazig te autoriseren."/>

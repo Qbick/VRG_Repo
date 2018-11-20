@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitstroom"
+    id="ac8a51ee-c85a-4fc3-a48a-79f201d4efef">
+  <properties
+      key="Bron"
+      value="Engage"/>
+</archimate:BusinessProcess>

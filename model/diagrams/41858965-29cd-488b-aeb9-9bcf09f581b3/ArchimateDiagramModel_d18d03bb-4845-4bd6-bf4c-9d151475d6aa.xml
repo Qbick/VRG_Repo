@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatie definitie"
+    id="d18d03bb-4845-4bd6-bf4c-9d151475d6aa">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3db37b7f-eb02-4377-98dd-334d8c624db8"
+      textAlignment="1"
+      content="hier saas, componente, app definitie opnemen">
+    <bounds
+        x="348"
+        y="154"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>

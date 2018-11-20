@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestellen kleding"
+    id="ec975e89-14a4-47f0-8e79-03733a98ccce">
+  <properties
+      key="Bron"
+      value="Engage"/>
+</archimate:BusinessProcess>

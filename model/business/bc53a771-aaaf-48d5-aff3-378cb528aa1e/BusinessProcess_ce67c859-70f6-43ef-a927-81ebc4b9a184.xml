@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Waardering/input ketenpartners (monodisciplinair)"
+    id="ce67c859-70f6-43ef-a927-81ebc4b9a184"
+    documentation="Dit gebeurt op de volgende manieren: &#xD;&#xA;•&#x9;Opmerkingen uit overleggen&#xD;&#xA;•&#x9;Vragenlijsten na een oefening, bijeenkomst of andere activiteit&#xD;&#xA;•&#x9;Convenanten&#xD;&#xA;">
+  <properties
+      key="Bron"
+      value="160801 Kwaliteitshandboek 2016 versie 1.1"/>
+</archimate:BusinessProcess>

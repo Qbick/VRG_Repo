@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Off-line backup"
+    id="db001927-b932-4e5b-a0a2-b433a8914c70"
+    documentation="Een kopie die niet direct toegankelijk is (minuten of uren)."/>

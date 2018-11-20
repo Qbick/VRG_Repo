@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatie structuur + bedrijfsprocessen"
+    id="e75cf9b4-56ad-4363-a562-f1a3b26ae97d">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1fa42ae4-4b27-4d3d-88d5-a18a55269ffd"
+      textAlignment="1"
+      content="hier de relatie tussen proces en organisatie eenheid maken&#xD;&#xA;&#xD;&#xA;dus brandweerzorg sector en brandweer processen">
+    <bounds
+        x="288"
+        y="72"
+        width="301"
+        height="181"/>
+  </children>
+</archimate:ArchimateDiagramModel>

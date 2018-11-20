@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anti-phishing "
+    id="6d2ca814-457b-4905-9edf-0783c1e4d7d1"
+    documentation="DKIM&#x9;DomainKeys Identified Mail Signatures&#x9;RFC 6376&#x9;IETF&#x9;https://tools.ietf.org/html/rfc6376&#xD;&#xA;&#xD;&#xA;"/>

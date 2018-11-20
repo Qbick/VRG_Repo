@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FTTH"
+    id="ff9bb5ac-9e87-4e12-acba-a3a4214b6c05"
+    documentation="Fibre to the home">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_85f77f8e-3499-48ec-a956-32a7937011a1.xml#85f77f8e-3499-48ec-a956-32a7937011a1"/>
+  <target
+      xsi:type="archimate:Path"
+      href="Path_10f9bfd3-8a93-48da-a1ac-b1921c297ab1.xml#10f9bfd3-8a93-48da-a1ac-b1921c297ab1"/>
+</archimate:AssociationRelationship>

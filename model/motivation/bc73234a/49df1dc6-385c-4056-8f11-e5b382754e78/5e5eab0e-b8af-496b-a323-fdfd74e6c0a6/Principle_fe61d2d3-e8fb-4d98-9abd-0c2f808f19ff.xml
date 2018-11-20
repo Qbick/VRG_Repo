@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AP40 Onweerlegbaarheid (principe)"
+    id="fe61d2d3-e8fb-4d98-9abd-0c2f808f19ff"
+    documentation="De onweerlegbaarheid van berichtenuitwisseling wordt gegarandeerd door wederzijdse authenticatie en door versleuteling van elektronische handtekeningen.&#xD;&#xA;https://www.noraonline.nl/wiki/Onweerlegbaarheid_(principe)"/>

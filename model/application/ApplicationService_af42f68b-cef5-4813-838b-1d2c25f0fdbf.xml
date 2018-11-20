@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geo4OOV"
+    id="af42f68b-cef5-4813-838b-1d2c25f0fdbf"
+    documentation="Via www.geo4oov.nl is de uitgebreide geocatalogus beschikbaar. Geo4OOV biedt landelijke en regionale kaartsets die continu worden uitgebreid.&#xD;&#xA;Geo4OOV serveert kaartlagen en objectinformatie naar een GIS-cliënt via de bekende webservicestandaarden WMS, WFS en WMTS.Geo-experts hebben zo met hun eigen GIS-toepassing toegang tot datasets van Geo4OOV. Sommige (grote) datasets zijn op aanvraag ook beschikbaar als downloads.&#xD;&#xA;&#xD;&#xA;In de geocatalogus wordt aandacht besteed aan het metadatamanagement. Zo weten gebruikers altijd wie de eigenaar en beheerder van de geo datasets zijn, wat de huidige peildatum is van wat binnen wordt gekregen, wanneer de volgende update wordt verwacht en welke datasets wel of niet beschikbaar zijn als open data."/>

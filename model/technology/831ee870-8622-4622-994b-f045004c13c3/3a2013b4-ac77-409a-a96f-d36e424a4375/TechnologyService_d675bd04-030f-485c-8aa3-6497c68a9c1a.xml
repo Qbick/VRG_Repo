@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service en interface beheer"
+    id="d675bd04-030f-485c-8aa3-6497c68a9c1a"
+    documentation="Het administreren van meta-data over herbruikbare services van applicaties en de specifieke interfaces tussen applicaties."/>

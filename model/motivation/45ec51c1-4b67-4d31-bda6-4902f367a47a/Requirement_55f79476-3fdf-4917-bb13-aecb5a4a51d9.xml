@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Connectiviteit"
+    id="55f79476-3fdf-4917-bb13-aecb5a4a51d9"
+    documentation="De veiligheidsregio’s en haar partners kunnen altijd en overal via een vaste, internet of mobiele internet verbinding connecteren op de infrastructuur. De VR’s zijn verantwoordelijk voor de inrichting van de beveiliging op de connectiviteit, gefaciliteerd door het IFV.">
+  <properties
+      key="Bron"
+      value="25112016 Technische referentiearchitectuur versie 0.7"/>
+</archimate:Requirement>

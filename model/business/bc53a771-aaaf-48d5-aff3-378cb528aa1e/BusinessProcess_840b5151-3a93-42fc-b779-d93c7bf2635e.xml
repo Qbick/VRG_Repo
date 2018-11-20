@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsmanagement "
+    id="840b5151-3a93-42fc-b779-d93c7bf2635e"
+    documentation="Dit proces betreft het plannen, voorbereiden en uitvoeren van de audit. Op basis van de verbeterpunten uit de rapportages worden verbetermaatregelen opgesteld. ">
+  <properties
+      key="Bron"
+      value="160801 Kwaliteitshandboek 2016 versie 1.1"/>
+</archimate:BusinessProcess>

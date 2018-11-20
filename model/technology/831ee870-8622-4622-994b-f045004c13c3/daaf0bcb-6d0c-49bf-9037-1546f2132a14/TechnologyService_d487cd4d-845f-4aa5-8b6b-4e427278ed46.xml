@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatieserver"
+    id="d487cd4d-845f-4aa5-8b6b-4e427278ed46"
+    documentation="Ondersteunt het uitvoeren van softwarecomponenten op een transactionele, veilige en schaalbare wijze."/>

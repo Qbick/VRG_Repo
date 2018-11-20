@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel"
+    id="4ad48f2a-9129-4bb5-874a-fc7b6f907202"
+    documentation="(begroting, jaarverslag en communicatie daarover op website, nieuwsbrief)">
+  <properties
+      key="Bron"
+      value="Producten - en dienstencatalogus v 2.0 DEF"/>
+</archimate:BusinessProcess>

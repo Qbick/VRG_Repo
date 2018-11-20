@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advisering risicovolle situaties en evenementen"
+    id="f628a0e1-ff8a-4eea-ae1c-ebdfaad54c10"
+    documentation="Een maat- of standaardadvies die door de gemeente kan worden overgenomen, waardoor de risico’s zo klein mogelijk blijven en de gevolgen beperkt. ">
+  <properties
+      key="Bron"
+      value="160801 Kwaliteitshandboek 2016 versie 1.1"/>
+</archimate:BusinessProcess>

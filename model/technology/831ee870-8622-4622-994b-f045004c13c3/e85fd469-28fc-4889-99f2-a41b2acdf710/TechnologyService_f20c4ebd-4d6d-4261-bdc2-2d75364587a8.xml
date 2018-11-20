@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verspreide opslag"
+    id="f20c4ebd-4d6d-4261-bdc2-2d75364587a8"
+    documentation="Opslag die op verschillende nodes plaats vindt."/>

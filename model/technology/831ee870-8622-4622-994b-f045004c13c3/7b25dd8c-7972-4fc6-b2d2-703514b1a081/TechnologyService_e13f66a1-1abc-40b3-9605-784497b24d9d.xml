@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Service Bus"
+    id="e13f66a1-1abc-40b3-9605-784497b24d9d"
+    documentation="Een systeem dat het vertalen en routeren van berichten ondersteunt."/>

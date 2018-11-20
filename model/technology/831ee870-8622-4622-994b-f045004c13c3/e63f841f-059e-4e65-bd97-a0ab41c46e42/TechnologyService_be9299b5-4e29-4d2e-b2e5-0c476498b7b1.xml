@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server virtualisatie platform"
+    id="be9299b5-4e29-4d2e-b2e5-0c476498b7b1"
+    documentation="Ondersteunt het virtualiseren van servers."/>

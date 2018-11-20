@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adviseren t.a.v. de veiligheidsregio en gemeenschappelijke regeling"
+    id="ec244dbf-b96c-4203-9fd4-17f91fedecf9"
+    documentation="(bestuurlijk, beleidsmatig, juridisch, strategie/beleid)">
+  <properties
+      key="Bron"
+      value="Producten - en dienstencatalogus v 2.0 DEF"/>
+</archimate:BusinessProcess>

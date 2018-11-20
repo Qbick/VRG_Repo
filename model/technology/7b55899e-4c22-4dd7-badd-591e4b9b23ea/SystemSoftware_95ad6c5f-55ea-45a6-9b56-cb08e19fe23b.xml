@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft SQL Server"
+    id="95ad6c5f-55ea-45a6-9b56-cb08e19fe23b"
+    documentation="Shared MS SQL database instance&#xD;&#xA;&#xD;&#xA;Microsoft ‘fail-over’ clusters ofwel o.b.v. ‘availability groups’"/>

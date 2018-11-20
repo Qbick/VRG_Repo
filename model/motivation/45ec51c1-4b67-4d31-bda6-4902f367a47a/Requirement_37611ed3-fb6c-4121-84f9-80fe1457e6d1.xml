@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaarheid"
+    id="37611ed3-fb6c-4121-84f9-80fe1457e6d1"
+    documentation="Onderliggende infrastructuur streeft op netwerkniveau naar 99,8%, 24x7, per maand, onafhankelijk van de beschikbaarheid van internet.">
+  <properties
+      key="Bron"
+      value="25112016 Technische referentiearchitectuur versie 0.7"/>
+</archimate:Requirement>

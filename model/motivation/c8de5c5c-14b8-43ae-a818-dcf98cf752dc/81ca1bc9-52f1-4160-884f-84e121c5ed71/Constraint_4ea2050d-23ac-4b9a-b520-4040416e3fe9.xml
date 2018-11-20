@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aansluiting de Digikoppeling voor bevragingen"
+    id="4ea2050d-23ac-4b9a-b520-4040416e3fe9"
+    documentation="Koppelvlak standaard WUS voor&#xD;&#xA;aansluiting op de Digikoppeling op&#xD;&#xA;basis van WSDL, UDDI en SOAP&#xD;&#xA;Logius&#xD;&#xA;"/>

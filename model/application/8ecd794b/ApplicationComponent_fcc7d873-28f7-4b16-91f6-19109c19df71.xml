@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JOIN Agenderen"
+    id="fcc7d873-28f7-4b16-91f6-19109c19df71"
+    documentation="Dit is de koppeling (site) waarmee vergaderingen uit het Join zaaksysteem gepubliceerd kunnnen worden naar de GO app.&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitwisseling van cyber dreigingsinformatie"
+    id="75678723-597d-45b3-96c1-0716dbb78405"
+    documentation="STIX en TAXII&#x9;Structured Threat Information eXpression en Trusted Automated eXchange of Indicator Information&#x9;1.2.1 (STIX) en 1.1.1 (TAXII)&#x9;OASIS&#x9;https://docs.oasis-open.org/cti/stix/v1.2.1/, http://docs.oasis-open.org/cti/taxii/v1.1.1/&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Active Directory Domain Services"
+    id="666ca413-cd22-43ed-9ff8-90912eeb899b"
+    documentation="Directory service&#xD;&#xA;&#xD;&#xA;DCYB als domein met scheiding op OU niveau"/>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADSL "
+    id="ee6a6b03-131b-4716-bc15-aab98b9b4506">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_ec86a637-838d-4207-bddf-9ddecaf4c5fd.xml#ec86a637-838d-4207-bddf-9ddecaf4c5fd"/>
+  <target
+      xsi:type="archimate:Path"
+      href="Path_10f9bfd3-8a93-48da-a1ac-b1921c297ab1.xml#10f9bfd3-8a93-48da-a1ac-b1921c297ab1"/>
+</archimate:AssociationRelationship>

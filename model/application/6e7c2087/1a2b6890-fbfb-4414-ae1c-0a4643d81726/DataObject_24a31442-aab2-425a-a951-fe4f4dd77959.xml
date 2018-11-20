@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incidenten"
+    id="24a31442-aab2-425a-a951-fe4f4dd77959"
+    documentation=" betreft de set aan basiskenmerken van een incidentmelding;&#xD;&#xA;&#xD;&#xA;- melding ID&#xD;&#xA;- datum crisis&#xD;&#xA;- incident info"/>

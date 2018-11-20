@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veilige verbinding"
+    id="f854bb65-bd12-4670-96c2-15365eb0d281"
+    documentation="TLS&#x9;Transport Layer Security Protocol Version&#x9;1.2, 1.1 en 1.0&#x9;IETF&#x9;http://datatracker.ietf.org/doc/rfc5246/&#xD;&#xA;"/>

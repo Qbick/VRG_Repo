@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit"
+    id="0b2caa7f-ad3e-41e8-ad55-e2d0e75f9ba9"
+    documentation="Het vastleggen van handelingen van gebruikers voor beveiligingsdoeleinden."/>

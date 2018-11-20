@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HPE 3PAR 74xx serie"
+    id="288ad837-1104-4a80-a8cc-f6b769ab3c33"
+    documentation="&#xD;&#xA;SAS en SATA-schijven en opgedeeld in 2 opslag tiers: &#xD;&#xA;&#xD;&#xA;Tier 1 wordt gebruikt voor snelle toegang tot opslagsystemen. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Tier 2 is trager dan tier 1 en wordt voornamelijk gebruikt voor data die minder vaak wijzigt. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;De huidige HPE 3Par omgeving beschikt niet over de nodige ‘de-duplicatie’ en compressie technieken. &#xD;&#xA;"/>

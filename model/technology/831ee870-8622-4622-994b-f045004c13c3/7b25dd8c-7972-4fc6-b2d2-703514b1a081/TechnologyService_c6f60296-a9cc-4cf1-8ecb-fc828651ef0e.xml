@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message Queuing Middleware"
+    id="c6f60296-a9cc-4cf1-8ecb-fc828651ef0e"
+    documentation="Een systeem dat het tijdelijk opslaan, routeren en transporteren van berichten ondersteunt."/>

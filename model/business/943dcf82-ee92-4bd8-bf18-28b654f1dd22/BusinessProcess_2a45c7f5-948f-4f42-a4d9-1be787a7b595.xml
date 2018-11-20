@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oordeel vorming"
+    id="2a45c7f5-948f-4f42-a4d9-1be787a7b595">
+  <properties
+      key="Bron"
+      value="Basiskennis crisisbeheersing"/>
+</archimate:BusinessProcess>

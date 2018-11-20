@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personeel"
+    id="4a345db1-d881-4107-baf6-a327012abe9f"
+    documentation="betreft de set aan basiskenmerken van een medewerker, zowel vast als tijdelijk en extern (inhuur);&#xD;&#xA;&#xD;&#xA;gegevens:&#xD;&#xA;- Naamgegevens&#xD;&#xA;- Geboortegegevens&#xD;&#xA;- Statusgegevens&#xD;&#xA;- Communicatiegegevens&#xD;&#xA;- Adresgegevens&#xD;&#xA;- Rijbewijzen&#xD;&#xA;- Aanstelling&#xD;&#xA;- Locatie&#xD;&#xA;- Functie&#xD;&#xA;- Specialisme&#xD;&#xA;- Ploeg&#xD;&#xA;- Rang&#xD;&#xA;&#xD;&#xA;"/>

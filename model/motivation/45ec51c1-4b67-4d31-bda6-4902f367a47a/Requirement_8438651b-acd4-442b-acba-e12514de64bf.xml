@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beveiliging"
+    id="8438651b-acd4-442b-acba-e12514de64bf"
+    documentation="De infrastructuur moet minimaal voldoen aan de eisen voor informatieveiligheid (BIG normering niveau 2 (algemeen) en 4 (persoonsgegevens) en NEN 7510 voor GGD en RAV regio’s).">
+  <properties
+      key="Bron"
+      value="25112016 Technische referentiearchitectuur versie 0.7"/>
+</archimate:Requirement>

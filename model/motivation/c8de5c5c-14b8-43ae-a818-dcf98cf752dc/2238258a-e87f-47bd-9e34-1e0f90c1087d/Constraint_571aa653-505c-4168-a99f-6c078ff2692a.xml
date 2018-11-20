@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatie"
+    id="571aa653-505c-4168-a99f-6c078ff2692a"
+    documentation="Leightweight Directory Access Protocol&#xD;&#xA;(LDAP)&#xD;&#xA;IETF"/>

@@ -1,0 +1,19 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Change log"
+    id="d16c4712-1265-4008-916d-a16683ae029e">
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="437b0dfd-3239-4514-87f6-a965a3134328"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Changelog:&#xD;&#xA;In deze view worden alle wijzgingen bijgehouden. Dit om inzichtelijk te maken welke veranderingen er in de tijd hebben plaats gevonden. &#xD;&#xA;Bij elke wijziging wordt er een versie van het backup bestand voorzien van de actuele datum zodat deze blijft behouden.&#xD;&#xA;&#xD;&#xA;voorbeeld&#xD;&#xA;VeiligheidsRegioGroningenArchitectuur.archimate20180819.bak&#xD;&#xA;&#xD;&#xA;format log entry:&#xD;&#xA;[date] - korte uitleg wijziging (afkorting uitvoerder)&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;log entries:&#xD;&#xA;19-9-2018 - changelog gestart (EKU)&#xD;&#xA;19-9-2018 - locaties verwijdert  (EKU)&#xD;&#xA;-&#x9;Eemsmond 1/ Uithuizermeeden&#xD;&#xA;-&#x9;Eemsmond 2/ Usquert&#xD;&#xA;-&#x9;Leens(gem)&#xD;&#xA;-&#x9;Muntendam(gem)    &#xD;&#xA;19-9-2018 - applicatie consumptie model verwijdert, dit zal in de component vs service inzichtelijk worden gemaakt (EKU)&#xD;&#xA;02-10-2018 nieuwe processen IKB opgenomen (EKU)&#xD;&#xA;09-10-2018 aanpasingen in opmaak gemaakt (EKU)&#xD;&#xA;09-10-2018 keuze gemaakt om kleurstelling te gebuiken in de applicatie plaat om SaaS applicatie te definieren(EKU)&#xD;&#xA;09-10-2018 Logistiek-beheer toegevoegd als applicatie functie (niet VeRA)(EKU)&#xD;&#xA;17-10-2018 applicatie view map aangemaakt voor het opslaan van applictaie cross layer platen (EKU)&#xD;&#xA;17-10-2018 Go App, Xential, Join suite definitie akkoord Luitzen Smit (EKU)&#xD;&#xA;17-10-2018 Proquro akkoord Klaas Dekker (EKU)&#xD;&#xA;24-10-2018 eigen standaarden opgevoerd (EKU)&#xD;&#xA;24-10-2018 pas toe of leg uit lijst opgevoerd (EKU)&#xD;&#xA;24-10-2018 NORA principes toegevoegd (EKU)&#xD;&#xA;02-11-2018 AG5 verwerkt, op 14-11-2018 overleggen met beheerders (EKU)&#xD;&#xA;06-11-2018 LCMS verwerkt (EKU)&#xD;&#xA;13-11-2018 BISL en BISL Next opgenomen. Beide ivm de scheiding tussen framework keuzes van FIM en operationele informatie voorziening (EKU)"
+      borderColor="#C0C0C0">
+    <bounds
+        x="60"
+        y="36"
+        width="1069"
+        height="637"/>
+  </children>
+</canvas:CanvasModel>

@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicatie tussen webclient en webserver"
+    id="538cb8e4-7da9-4859-a70c-c0629bc43410"
+    documentation="HyperText Transfer Protocol (Secure),(HTTP(S))&#xD;&#xA;W3C"/>

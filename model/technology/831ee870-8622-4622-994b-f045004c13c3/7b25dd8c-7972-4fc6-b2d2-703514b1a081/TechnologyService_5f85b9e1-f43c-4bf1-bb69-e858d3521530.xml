@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ETL tool"
+    id="5f85b9e1-f43c-4bf1-bb69-e858d3521530"
+    documentation="Een systeem dat het extraheren, transformeren en laden van gegevens in bulk ondersteunt."/>

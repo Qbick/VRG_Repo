@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planning en rapportage"
+    id="e7ac39d4-c708-497f-8959-efd8bc6e9e6e"
+    documentation="(jaarverslagen, burgerjaarverslag), Interne en externe communicatie: intranet, internet, Burgerjaarverslag">
+  <properties
+      key="Bron"
+      value="Producten - en dienstencatalogus v 2.0 DEF"/>
+</archimate:BusinessProcess>

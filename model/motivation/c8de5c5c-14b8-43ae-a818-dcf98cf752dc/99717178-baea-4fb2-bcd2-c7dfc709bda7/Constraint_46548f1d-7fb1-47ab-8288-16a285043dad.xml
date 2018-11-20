@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anti-phishing"
+    id="46548f1d-7fb1-47ab-8288-16a285043dad"
+    documentation="SPF&#x9;Sender Policy Framework&#x9;RFC 7208&#x9;IETF&#x9;https://tools.ietf.org/html/rfc7208&#xD;&#xA;"/>

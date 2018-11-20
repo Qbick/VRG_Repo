@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content filtering"
+    id="6157fde0-b2a6-4e50-b509-7f82b49e5b76"
+    documentation="Het beperken van de toegang tot specifieke content (zoals webpagina's of e-mail) voor bepaalde gebruikersgroepen."/>

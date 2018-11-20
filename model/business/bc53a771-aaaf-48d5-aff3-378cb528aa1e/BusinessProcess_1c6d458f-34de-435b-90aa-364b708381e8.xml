@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materieelbeheer"
+    id="1c6d458f-34de-435b-90aa-364b708381e8"
+    documentation="De kwaliteit van het materieel wordt beheerst. ">
+  <properties
+      key="Bron"
+      value="160801 Kwaliteitshandboek 2016 versie 1.1"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domeinnaam-beveiliging "
+    id="b7ea279b-1010-40ea-ad37-d5afa782f7f8"
+    documentation="DNSSEC&#x9;Domain Name System Security Extensions&#x9;RFC 4033, RFC4034, RFC4035&#x9;IETF&#x9;https://datatracker.ietf.org/doc/rfc4033, https://datatracker.ietf.org/doc/rfc4034, https://datatracker.ietf.org/doc/rfc4035&#xD;&#xA;"/>

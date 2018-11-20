@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Materieel"
+    id="174a62ef-a9dd-49fe-8d9e-c378dd2f0bfc"
+    documentation=" betreft de set aan basiskenmerken van materieel die gebruikt wordt voor de hulpverlening;&#xD;&#xA;&#xD;&#xA;- Matrieel id&#xD;&#xA;- soort matrieel&#xD;&#xA;- aanschaf&#xD;&#xA;- status&#xD;&#xA;-...."/>

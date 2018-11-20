@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beveiligd mailverkeer"
+    id="232a129d-c9a7-4f3f-b6fe-ab244f4255d2"
+    documentation="STARTTLS en DANE&#x9;&quot;SMTP Service Extension for Secure SMTP over Transport Layer Security&quot; (STARTTLS) en &quot;SMTP Security via Opportunistic DNS-Based Authentication of Named&quot; (DANE)&#x9;RFC 3207 en RFC 7672&#x9;IETF&#x9;https://tools.ietf.org/html/rfc3207, https://tools.ietf.org/html/rfc7672&#xD;&#xA;"/>

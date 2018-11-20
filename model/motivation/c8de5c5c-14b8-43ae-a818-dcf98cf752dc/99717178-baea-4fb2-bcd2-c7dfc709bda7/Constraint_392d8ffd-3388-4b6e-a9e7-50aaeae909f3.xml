@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veilig Webverkeer"
+    id="392d8ffd-3388-4b6e-a9e7-50aaeae909f3"
+    documentation="HTTPS en HSTS&#x9;HyperText Transfer Protocol Secure en HTTPS Strict Transport Security&#x9;RFC2818, RFC6797&#x9;IETF&#x9;https://datatracker.ietf.org/doc/rfc2818/, https://tools.ietf.org/html/rfc6797&#xD;&#xA;"/>

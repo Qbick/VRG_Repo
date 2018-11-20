@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risicocommunicatie"
+    id="458690a9-e4ca-4bad-950d-c6dfeb26477b"
+    documentation="(risicowijzer, bijdrage gemeentegids, risicokaart)">
+  <properties
+      key="Bron"
+      value="Producten - en dienstencatalogus v 2.0 DEF"/>
+</archimate:BusinessProcess>

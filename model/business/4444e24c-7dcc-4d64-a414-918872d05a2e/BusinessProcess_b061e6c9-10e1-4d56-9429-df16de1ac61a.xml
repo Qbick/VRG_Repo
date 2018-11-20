@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorzieningen"
+    id="b061e6c9-10e1-4d56-9429-df16de1ac61a"
+    documentation="(crisisruimten, alarmering(OOV Alert), Risicokaart: ISOR/ RRGS)">
+  <properties
+      key="Bron"
+      value="Producten - en dienstencatalogus v 2.0 DEF"/>
+</archimate:BusinessProcess>

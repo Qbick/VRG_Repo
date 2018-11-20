@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JOIN Scansoftware"
+    id="19992aa8-01b0-4bc2-84c2-03a7947cb5c7"
+    documentation="Bulkscanner voor het sturen van scans via een standalone PC via een batch naar de JOIN server. Dit is de beheertool voor het inrichten en onderhouden van zaaktypen voor Join Zaak en Document&#xD;&#xA;"/>

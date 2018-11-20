@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AFAS Profit Personeel"
+    id="71e61d59-abeb-4733-9262-39ede70e9e1e"
+    documentation="HRM/salaris&#xD;&#xA;">
+  <properties
+      key="Functioneel beheerder"/>
+  <properties
+      key="Technische beheerder"/>
+</archimate:ApplicationComponent>

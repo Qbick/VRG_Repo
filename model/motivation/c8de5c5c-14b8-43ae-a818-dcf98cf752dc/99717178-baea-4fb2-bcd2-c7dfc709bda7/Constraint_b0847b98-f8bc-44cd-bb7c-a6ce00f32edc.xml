@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geografische informatie"
+    id="b0847b98-f8bc-44cd-bb7c-a6ce00f32edc"
+    documentation="Geo-Standaarden&#x9;Geo-standaarden&#x9;Zie 'Toelichting bij Opname'&#x9;Geonovum&#x9;https://www.geonovum.nl/geo-standaarden/metadata/nederlands-metadataprofiel-op-iso-19115-geografie, https://www.geonovum.nl/geo-standaarden/metadata/nederlands-metadataprofiel-op-iso-19119-services, https://www.geonovum.nl/geo-standaarden/services/nederlands-wfs-profiel-11-op-iso-19142-voor-web-feature-services-20, https://www.geonovum.nl/geo-standaarden/services/nederlands-profiel-wms-op-iso-19128-versie-11, http://www.geonovum.nl/wegwijzer/standaarden/basismodel-geo-informatie-nen36102011, https://www.iso.org/standard/32554.html&#x9;&#xD;&#xA;"/>

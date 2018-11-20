@@ -1,0 +1,7 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiën"
+    id="5e0079cf-5f1e-45e8-840c-a8a7b8c504b3"
+    documentation="&#xD;&#xA;- budgetten&#xD;&#xA;- inkomsten&#xD;&#xA;- uitgaven&#xD;&#xA;- verplichtingen&#xD;&#xA;- tegoeden&#xD;&#xA;- bankrekeningen&#xD;&#xA;- ...">
+  <properties/>
+</archimate:DataObject>
